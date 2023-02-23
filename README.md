@@ -29,9 +29,6 @@
 
 
 
-<!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
-![Keiths's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keithhbova&count_private=true&layout=compact&theme=dark&langs_count=5)
-
 ## Tools
 [![](https://img.shields.io/badge/Prometheus-IO-red)]()
 [![](https://img.shields.io/badge/Grafana-Labs-orange)]()
