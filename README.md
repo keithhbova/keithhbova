@@ -1,14 +1,29 @@
 # Keith H. Bova
 
-[![](https://komarev.com/ghpvc/?username=keithhbova&color=brightgreen)](https://github.com/keithhbova)
+[![](https://komarev.com/ghpvc/?username=keithhbova&color=blue)](https://github.com/keithhbova)
 
 ![Keiths's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithhbova&show_icons=true&theme=dark&hide=issues)
 
 ## Operating Systems
-[![](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)](https://www.apple.com/macos/)
-[![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=557C94)](https://www.kali.org/)
-[![](https://img.shields.io/badge/-PopOS-informational?style=flat&logo=popos&logoColor=white&color=48B9C7)](https://pop.system76.com/)
+[![](https://img.shields.io/badge/macOS-Catalina%20-blue)](https://www.apple.com/macos/)
+[![](https://img.shields.io/badge/Ubuntu-18.04--22.04%20-orange)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Nvidia-Jetson-green)](https://developer.nvidia.com/embedded/develop/software/)
+[![](https://img.shields.io/badge/Unraid-OS-red)](https://unraid.net/)
+[![](https://img.shields.io/badge/Windows-10-lightgrey)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+
+## Languages
+[![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=white)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)](https://cmake.org/)
+[![](https://img.shields.io/badge/Matlab-2022-red)](https://www.mathworks.com/products/matlab.html)
+[![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/Cuda-11.8-green)](https://developer.nvidia.com/cuda-11-8-0-download-archive)
+[![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]()
+[![](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)]()
+[![](https://img.shields.io/badge/Verilog-HDL-green)]()
+[![](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)]()
+
 
 ## Tools
 [![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)](https://www.gnu.org/software/bash/)
@@ -27,11 +42,7 @@
 [![](https://img.shields.io/badge/-AWSS3-informational?style=flat&logo=amazons3&logoColor=white&color=569A31)](https://aws.amazon.com/s3/)
 [![](https://img.shields.io/badge/-AWSECR-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)](https://aws.amazon.com/ecr/)
 
-## Favorite Languages
-[![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=white)](https://isocpp.org/)
-[![](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)](https://www.open-std.org/jtc1/sc22/wg14/)
-[![](https://img.shields.io/badge/-Make-informational?style=flat&logo=gnu&logoColor=white&color=A42E2B)](https://www.gnu.org/software/make/)
+
 
 <!---dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula--->
 ![Frankie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fviramontes8&count_private=true&layout=compact&theme=dark&langs_count=5)
